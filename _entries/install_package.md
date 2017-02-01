@@ -8,7 +8,7 @@ title: Install the Package
 
 >Click the link found in the new order email
 
-![test image]({{ BASE_PATH }}/img/200/install_email.png)  
+![test image]({{ site.baseurl }}/img/200/install_email.png)  
 
 
 >Log in to Salesforce as an Admin User
