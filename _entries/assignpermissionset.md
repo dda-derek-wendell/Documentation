@@ -11,13 +11,13 @@ title: Assign the Permission Set
 
 >**Click** the **Manage Assignments** button.
 
-![New Permission]({{ site.url }}/img/700/click_manage_assignments.png)
+![New Permission]({{ site.baseurl }}/img/700/click_manage_assignments.png)
 
 >**Click** the **Add Assignments** button.
 
-![Save Button]({{ site.url }}/img/700/click_add_assignment.png)
+![Save Button]({{ site.baseurl }}/img/700/click_add_assignment.png)
 
 >Select the checkbox next to your user.  
 **Click** the **Assign** button.
 
-![Object Settings]({{ site.url }}/img/700/assign_perm_user.png)
+![Object Settings]({{ site.baseurl }}/img/700/assign_perm_user.png)
