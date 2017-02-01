@@ -1,4 +1,5 @@
 full_rebuild: true
+BASE_PATH: datarista.github.io/Documentation
 name: Partner Portal
 author: Datarista
 version: 1.0
