@@ -7,7 +7,7 @@ title: Assign the Permission Set
 ---
 >**Click** the **Permission Set Overview** link.
 
-![Permission Set Quick Find]({{ site.url }}/img/700/permission_set_overview.png)  
+![Permission Set Quick Find]({{ BASE_PATH }}/img/700/permission_set_overview.png)  
 
 >**Click** the **Manage Assignments** button.
 
