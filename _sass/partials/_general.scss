@@ -2,10 +2,10 @@ body{
     font:{
         family: $roboto;
         weight: $light;
-        size: 22px;
+        size: 18px;
     }
     line-height: 1.4;
-    background: $lightgray;
+    background: $grayblue;
     color: $black;
 }
 
@@ -17,7 +17,7 @@ body{
 
 .overview{
     width: 320px;
-    font-size: 18px;
+    font-size: 14px;
     background: $lightgray;
 }
 
@@ -39,7 +39,10 @@ body{
 }
 
 section{
-
+    background: $white;
+    border-radius: 8px;
+    margin: 15px;
+    padding: 20px;
     &:last-of-type{
         padding-bottom: 300px;
     }
@@ -67,16 +70,16 @@ h1, h2, h3, h4, h5, h6{
     text-transform: uppercase;
     font-weight: $bold;
     line-height: 1;
-    color: $green;
+    color: $gray;
 }
 
 h1 {
-    font-size: 3.1em;
-    padding: 30px 30px 0;
-    text-align: left;
-    border-bottom: $green 9px solid;
-    width: 100%;
-    line-height: 0.61;
+    font-size: 2.8em;
+    padding: 20px;
+    text-align: center;
+    border-bottom: $gray 9px solid;
+    /*width: 100%;*/
+    line-height: 0.81;
     margin: 0 0 20px;
 
     &:before {
@@ -85,10 +88,10 @@ h1 {
 }
 
 blockquote{
-    background: #f9f9f9;
-    border-left: 10px solid #385958;
-    margin: 50px 10px 0px 10px;
-    padding: 0.5em 10px;
+    background: #f7f7f7;
+    border-left: 10px solid $darkgray;
+    margin: 10px;
+    padding: 0.7em 10px;
     quotes: "\201C""\201D""\2018""\2019";
 }
 
@@ -107,15 +110,15 @@ blockquote p {
 .h1{
     counter-increment: h1-counter;
     counter-reset: h2-counter;
-    padding-top: 80px;
+    padding-top: 50px;
 }
 
 h2 {
     font-size: 2em;
-    padding: 30px 0 0;
+    padding: 0px 0px 5px;
     width: 90%;
     text-align: center;
-    border-bottom: 5px solid $green;
+    border-bottom: 5px solid $gray;
     margin: 0 auto 20px;
     line-height: 0.63;
 
@@ -127,7 +130,7 @@ h2 {
 .h2{
     counter-increment: h2-counter;
     counter-reset: h3-counter;
-    padding-top: 60px;
+    padding-top: 20px;
 }
 
 
@@ -136,7 +139,7 @@ h3{
     padding: 20px 0 0;
     width: 90%;
     text-align: left;
-    border-bottom: 4px solid $green;
+    border-bottom: 4px solid $gray;
     margin: 0 auto 20px;
     line-height: 0.65;
 
@@ -156,7 +159,7 @@ h4{
     padding: 18px 0 0;
     width: 90%;
     text-align: left;
-    border-bottom: 3px solid $green;
+    border-bottom: 3px solid $gray;
     margin: 0 auto 18px;
     line-height: 0.67;
 
@@ -177,7 +180,7 @@ h5{
     padding: 40px 0 0;
     width: 90%;
     text-align: left;
-    border-bottom: 2px solid $green;
+    border-bottom: 2px solid $gray;
     margin: 0 auto 15px;
     line-height: 0.68;
 
@@ -189,11 +192,11 @@ h5{
 
 a{
     transition: .3s all;
-    color: $green;
+    color: $gray;
     text-decoration: none;
 
     .content &{
-        border-bottom: $darkgreen 1px solid;
+        border-bottom: $darkgray 1px solid;
         padding: 0px 2px;
 
         &:hover{
@@ -202,7 +205,7 @@ a{
     }
 
     &:hover{
-        color: $darkgreen;
+        color: $darkgray;
     }
 }
 
@@ -212,9 +215,9 @@ img{
     max-width: 100%;
     margin-left: auto;
     margin-right: auto;
-    background: $darkgreen;
-    padding: 0px 4px 4px 4px;
-    border: 1px solid $darkgreen;
+    padding: 0px 4px 10px 4px;
+    border: 2px solid #b7b7b7;
+    box-shadow: 0 5px 10px #b7b7b7;
 }
 
 code{
