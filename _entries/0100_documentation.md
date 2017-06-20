@@ -2,6 +2,6 @@
 sectionclass: h1
 sectionid: documentation
 is-parent: yes
-title: Partner Portal
+title: Salesforce App Installation
 number: 100
 ---
