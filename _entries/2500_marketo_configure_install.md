@@ -20,7 +20,7 @@ title: Configure Install in Customer Portal
 
 ![test image]({{ site.url }}/img/2500/configure_install_blank.jpg)  
 
->To find **Client ID** and **Client Secret**, in Marketo, locate the Launchpoint Service and click View Details
+>To find **Client ID** and **Client Secret**, in Marketo, locate the Launchpoint Service and click View Details  
 >Use the Client Id and Client Secret values
 
 ![test image]({{ site.url }}/img/2500/client_id_secret.jpg)  
