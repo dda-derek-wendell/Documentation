@@ -22,4 +22,4 @@ title: Authenticate Installation Key
 
 ![Auth Success]({{ site.baseurl}}/img/900/auth_successful.png)
 
->Close the Authentication successful tab, return to SalesForce.
+>Close the Authentication successful tab, return to Salesforce.

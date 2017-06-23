@@ -1,6 +1,6 @@
 full_rebuild: true
 baseurl: /Documentation
-name: Partner Portal
+name: Datarista Documentation
 author: Datarista
 version: 1.0
 encoding: utf-8

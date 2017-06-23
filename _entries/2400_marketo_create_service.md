@@ -13,7 +13,8 @@ title: Create Launchpoint Service
 ![test image]({{ site.url }}/img/2400/launchpoint_service.jpg)  
 
 
->**New Service**  Enter Display Name, Service: Custom, Description, and API Only User: (user created in previous step) then click Create  
+>**New Service**  Enter Display Name, Service: **Custom**, Description, and API Only User: (user created in previous step)  
+Click Create  
 
 
 ![test image]({{ site.url }}/img/2400/new_service.jpg)  

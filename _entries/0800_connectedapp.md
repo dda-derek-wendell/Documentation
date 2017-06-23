@@ -5,7 +5,7 @@ parent-id: documentation
 number: 800
 title: Configure Connected App Permissions
 ---
->**Search** for **connected apps** and then **Click Manage Apps** -> **Connected Apps**
+>**Search** for "connected apps" and then **click Manage Apps** -> **Connected Apps**
 
 ![Connected Apps Quick Find]({{ site.baseurl }}/img/800/click_connected_apps.png)  
 

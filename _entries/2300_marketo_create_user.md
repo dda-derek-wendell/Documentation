@@ -6,11 +6,10 @@ number: 2300
 title: Create API Only User
 ---
 
->Log into Marketo and create an API Only user  
-
->Click the Admin menu item at the top of the page
->In the sidebar menu, under **Security**, click **Users & Roles**  
->Click **Invite New User**
+>Log into Marketo
+Click the **Admin** menu item at the top of the page  
+In the sidebar menu, under **Security**, click **Users & Roles**  
+Click **Invite New User**  
 
 
 ![test image]({{ site.url }}/img/2300/users_and_roles.jpg)  

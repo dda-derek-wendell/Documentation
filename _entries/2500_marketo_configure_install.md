@@ -8,19 +8,19 @@ title: Configure Install in Customer Portal
 
 >Click the link found in the invitation email
 
-
 ![test image]({{ site.url }}/img/2500/invitation_email.jpg)  
 
 >Follow instructions to set password   
-
->Log in to Customer Portal, click Admin button
-
->In Admin Menu, select Configure Install
-
+Log in to Customer Portal
+Click **Admin** button  
+In Admin Menu, select **Configure Install**
 
 ![test image]({{ site.url }}/img/2500/configure_install_blank.jpg)  
 
->To find **Client ID** and **Client Secret**, in Marketo, locate the Launchpoint Service and click View Details  
+>To find **Client ID** and **Client Secret**, in Marketo, locate the Launchpoint Service created in the steps above and click **View Details**
+
+![test image]({{ site.url }}/img/2500/service_view_details.jpg)  
+
 >Use the Client Id and Client Secret values
 
 ![test image]({{ site.url }}/img/2500/client_id_secret.jpg)  

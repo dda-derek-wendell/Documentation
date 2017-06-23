@@ -5,7 +5,7 @@ parent-id: documentation
 number: 1000
 title: Configure Page Layouts
 ---
->You will need to configure a layout for each Object that is being added / modified to the SalesForce instance. This likely includes an Account and Contact object. Perform the following steps for each Salesforce Page that requires updating.
+>You will need to configure a layout for each Object that is being added / modified to the Salesforce instance. This likely includes an Account and Contact object. Perform the following steps for each Salesforce Page that requires updating.
 {:.warning}
 
 >**Type** "page layouts" into the quick find / search box. **Click** on the **Accounts** -> **Page layouts** link.
@@ -34,11 +34,12 @@ title: Configure Page Layouts
 
 ![Drag AccountMatch]({{ site.baseurl }}/img/1000/click_drag_accountmatch.png)
 
->Move the mouse to the top right of the "AccountMatch" page area. A wrench icon (properties) should appear. **Click** the wrench.
+>Move the mouse to the top right of the "AccountMatch" page area. A wrench icon (properties) should appear. **Click** the wrench.  
 
 ![Click the Wrench]({{ site.baseurl }}/img/1000/account_match_properties.png)
 
 >Change the **Height** to at least **400**  
+**Check** Show Scrollbars (optional)  
 **Click** the **OK** button.
 
 ![Change Height]({{ site.baseurl }}/img/1000/mch_schools_section_properties.png)
@@ -47,5 +48,5 @@ title: Configure Page Layouts
 
 ![Click Save Button]({{ site.baseurl }}/img/1000/save_account_layout.png)
 
->Repeat the previous steps for other Salesforce Objects that are being modified, most likely Contact
+>Repeat the previous steps for other Salesforce Objects that are being modified, most likely Contact 
 {:.warning}
