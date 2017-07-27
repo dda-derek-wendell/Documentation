@@ -1,0 +1,52 @@
+---
+sectionclass: h2
+sectionid: marketo_create_object_fields
+parent-id: marketo_documentation
+number: 2700
+title: Create Marketo Custom Fields
+---
+
+
+>Using the Customer Portal's **Instance Fields** validation tool as a reference, you will now create the fields on the custom objects in Marketo.  
+In the Customer Portal, click on a custom object name to expand the list of fields.  
+
+
+>The **status** will show with errors until the fields are created and the object is approved.  
+{:.warning}
+
+![test image]({{ site.url }}/img/2700/instance_fields_fields.jpg)
+
+
+>Marketo will automatically create fields for **Created At**, **Marketo GUID**, and **Updated At**
+
+![test image]({{ site.url }}/img/2700/marketo_automatic_fields.jpg)
+
+
+>In Marketo, Click **Fields**  
+Click **New Field**   
+
+![test image]({{ site.url }}/img/2700/click_fields.jpg)
+
+
+>Create the **leadId** field that will link the custom object to the Lead object.   
+
+>Be sure to use **Data Type: link**
+{:.warning}
+
+![test image]({{ site.url }}/img/2700/leadId_field.jpg)
+
+>Create the rest of the fields  
+
+>API Name is **case sensitive**
+{:.warning}
+
+![test image]({{ site.url }}/img/2700/new_field.jpg)
+
+>After creating all the fields, you must approve the object.
+On the **Marketo Custom Objects** tab, in the **Custom Object Actions** menu, click **Approve Object**  
+Click the **Approve** button to confirm
+
+![test image]({{ site.url }}/img/2700/approve_object.jpg)
+
+>Repeat steps for each custom object
+{:.warning}
