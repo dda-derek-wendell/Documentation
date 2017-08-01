@@ -13,7 +13,7 @@ This tool will compare your Marketo configuration to the expected configuration.
 Correctly configured fields and objects will display with a green checkmark and success message.   
 Incorrectly configured fields and objects will display with a red X and error message.
 
-![test image]({{ site.url }}/img/2800/field_validation.jpg)
+![test image]({{ site.baseurl }}/img/2800/field_validation.jpg)
 
 >The Marketo integration will not work correctly until all objects and fields are correctly configured.
 Once the custom objects and fields are correctly configured, you are ready to use your data integration!

@@ -12,19 +12,19 @@ In the sidebar menu, under **Security**, click **Users & Roles**
 Click **Invite New User**  
 
 
-![test image]({{ site.url }}/img/2300/users_and_roles.jpg)  
+![test image]({{ site.baseurl }}/img/2300/users_and_roles.jpg)  
 
 
 >**Step 1: Info**  Enter email address, first name, last name, and reason (optional) then click Next  
 
 
-![test image]({{ site.url }}/img/2300/new_user_step1.jpg)  
+![test image]({{ site.baseurl }}/img/2300/new_user_step1.jpg)  
 
 
 >**Step 2: Permissions**  Select API Only and Next  
 
 
-![test image]({{ site.url }}/img/2300/new_user_step2.jpg)  
+![test image]({{ site.baseurl }}/img/2300/new_user_step2.jpg)  
 
 
 >**Step 3: Message**  Click Send  
