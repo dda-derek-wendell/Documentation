@@ -24,7 +24,7 @@ title: Install the Package
 
 ![Salesforce Login Image]({{ site.baseurl }}/img/200/installation_complete.png)
 
->If SalesForce is busy this can take a while.
+>If Salesforce is busy this can take a while.
 {:.warning}
 
 ![Salesforce Login Image]({{ site.baseurl }}/img/200/app_taking_long_time.png)

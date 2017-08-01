@@ -5,8 +5,8 @@ parent-id: documentation
 number: 200
 title: Overview
 ---
->**Objective:** Successful installation and configuration of data provider's salesforce package  
+>**Objective:** Successful installation and configuration of data provider's Salesforce package  
 **What you'll need:**
-package link from order email
+Package Installation URL and Install Key from order email  
 Salesforce user with Admin permissions  
 **Estimated time to complete:** 15-20 minutes

@@ -1,6 +1,6 @@
 body{
     font:{
-        family: $roboto;
+        family: $helvetica;
         weight: $light;
         size: 18px;
     }
@@ -67,20 +67,21 @@ section{
 }
 
 h1, h2, h3, h4, h5, h6{
-    text-transform: uppercase;
     font-weight: $bold;
     line-height: 1;
     color: $gray;
 }
 
 h1 {
-    font-size: 2.8em;
-    padding: 20px;
-    text-align: center;
-    border-bottom: $gray 9px solid;
+    color: $lightgray;
+    text-transform: uppercase;
+    font-size: 2.2em;
+    font-family: $roboto;
+    padding: 5px 5px 5px 0px;
+    /*border-bottom: $lightgray 5px solid;*/
     /*width: 100%;*/
     line-height: 0.81;
-    margin: 0 0 20px;
+    margin: 0 0 0px;
 
     &:before {
         content: counter(h1-counter) " ";
@@ -90,7 +91,7 @@ h1 {
 blockquote{
     background: #f7f7f7;
     border-left: 10px solid $darkgray;
-    margin: 10px;
+    margin: 10px 10px 10px 0px;
     padding: 0.7em 10px;
     quotes: "\201C""\201D""\2018""\2019";
 }
@@ -110,15 +111,16 @@ blockquote p {
 .h1{
     counter-increment: h1-counter;
     counter-reset: h2-counter;
-    padding-top: 50px;
+    /*padding-top: 50px;*/
+    background: $darkgray;
 }
 
 h2 {
-    font-size: 2em;
+    font-size: 1.6em;
     padding: 0px 0px 5px;
-    width: 90%;
-    text-align: center;
-    border-bottom: 5px solid $gray;
+    width: 100%;
+    /*text-align: center;*/
+    border-bottom: 1px solid $mediumgray;
     margin: 0 auto 20px;
     line-height: 0.63;
 

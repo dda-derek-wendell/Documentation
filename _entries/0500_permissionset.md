@@ -25,7 +25,8 @@ title: Create a Permission Set
 >The following steps will have to be repeated for all custom objects.
 {:.warning}  
 
->Either search for your custom object(example: MCH_Schools) or scroll through the list of all **Objects** to find it. Select the custom object associated with the package (example: MCH_Schools)
+>Either search for your custom object (example: MCH_Schools) or scroll through the list of all **Objects** to find it.  
+>Select the custom object associated with the package (example: MCH_Schools)
 
 ![Object Search]({{ site.baseurl }}/img/500/custom_object.png)  
 
@@ -46,4 +47,5 @@ for(var i =0, max = allInputs.length; i < max; i++) {
 }
 ```  
 
->Repeat the above steps for all other custom objects associated with the package that is being installed.
+>Repeat the above steps for all other custom objects associated with the package that is being installed.  
+>Other custom objects may include custom contact or lead objects.

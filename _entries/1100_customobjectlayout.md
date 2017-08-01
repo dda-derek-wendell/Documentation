@@ -18,8 +18,12 @@ title: Configure Custom Object Layouts
 
 ![Click Edit On Layout]({{ site.baseurl }}/img/1100/click_edit_page_layout.png)
 
->Drag fields from the list to the layout below. Any fields can be selected, however only fields the customer has licensed in their order will be populated.  
-**Click "Save"**  
+>Drag fields from the list to the layout below.  
+
+
+>Any fields can be selected, however only fields the customer has licensed in their order will be populated.  
+{:.alert}
+>**Click "Save"**  
 
 >Repeat these steps for any other custom objects, most likely Contact
 {:.warning}
