@@ -28,12 +28,12 @@ Click **New Field**
 ![test image]({{ site.baseurl }}/img/2700/click_fields.jpg)
 
 
->Create the **leadId** field that will link the custom object to the Lead object.   
+>Create the **leadId** field that will link the custom object to the **Person** object.  The Person object was formerly called the Lead object.
 
 >Be sure to use **Data Type: link**
 {:.warning}
 
-![test image]({{ site.baseurl }}/img/2700/leadId_field.jpg)
+![test image]({{ site.baseurl }}/img/2700/leadId_field.png)
 
 >Create the rest of the fields  
 
