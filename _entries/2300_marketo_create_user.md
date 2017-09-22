@@ -30,4 +30,4 @@ Click **Invite New User**
 >**Step 3: Message**  Click Send  
 
 
-![test image]({{ site.url }}/img/2300/new_user_step3.jpg)  
+![test image]({{ site.baseurl }}/img/2300/new_user_step3.jpg)  

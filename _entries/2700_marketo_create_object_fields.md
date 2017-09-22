@@ -21,6 +21,8 @@ In the Customer Portal, click on a custom object name to expand the list of fiel
 
 ![test image]({{ site.baseurl }}/img/2700/marketo_automatic_fields.jpg)
 
+>Do not Approve the object until the fields have been created.    
+{:.warning}
 
 >In Marketo, Click **Fields**  
 Click **New Field**   
@@ -28,16 +30,18 @@ Click **New Field**
 ![test image]({{ site.baseurl }}/img/2700/click_fields.jpg)
 
 
->Create the **leadId** field that will link the custom object to the Lead object.   
+>Create the **leadId** field that will link the custom object to the **Person** object.  The Person object was formerly called the Lead object.
 
->Be sure to use **Data Type: link**
+>API Name is **case sensitive**  
+>Be sure to use **Data Type: link** and **Dedupe Field: Yes**  
 {:.warning}
 
-![test image]({{ site.baseurl }}/img/2700/leadId_field.jpg)
+![test image]({{ site.baseurl }}/img/2700/leadId_field.png)
 
 >Create the rest of the fields  
 
->API Name is **case sensitive**
+>API Name is **case sensitive**  
+>Do not mark any fields other than **leadId** as a dedupe field.    
 {:.warning}
 
 ![test image]({{ site.baseurl }}/img/2700/new_field.jpg)
