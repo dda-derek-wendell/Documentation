@@ -24,7 +24,7 @@ title: Configure Page Layouts
 
 ![Drag Section Below Custom Links]({{ site.baseurl }}/img/1000/click_drag_section.png)
 
->Enter a **Name** for the section, example: "MCH School"  
+>Enter a **Name** for the section  
 **Select 1-Column**  
 **Click** the **OK** button.
 
@@ -42,11 +42,11 @@ title: Configure Page Layouts
 **Check** Show Scrollbars (optional)  
 **Click** the **OK** button.
 
-![Change Height]({{ site.baseurl }}/img/1000/mch_schools_section_properties.png)
+![Change Height]({{ site.baseurl }}/img/1000/schools_section_properties.png)
 
 >**Click** the **Save** button located at the top of the control widget.
 
 ![Click Save Button]({{ site.baseurl }}/img/1000/save_account_layout.png)
 
->Repeat the previous steps for other Salesforce Objects that are being modified, most likely Contact 
+>Repeat the previous steps for other Salesforce Objects that are being modified, most likely Contact
 {:.warning}
