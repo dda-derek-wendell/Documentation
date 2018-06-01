@@ -9,4 +9,4 @@ title: Overview
 **What you'll need:**
 Package Installation URL and Install Key from order email  
 Salesforce user with Admin permissions  
-**Estimated time to complete:** 15-20 minutes
+**Estimated time to complete:** 30 minutes
