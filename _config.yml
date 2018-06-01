@@ -1,7 +1,7 @@
 full_rebuild: true
 baseurl: /Documentation
-name: Datarista Documentation
-author: Datarista
+name: Dodge Link Documentation
+author: Dodge Data & Analytics
 version: 1.0
 encoding: utf-8
 defaults:
