@@ -9,7 +9,7 @@ title: Install the Package
 >Click the link found in the new order email  
 *Note: If you are installing into a __sandbox__ organization you must replace the initial portion of the URL with http://test.salesforce.com*
 
-![test image]({{ site.baseurl }}/img/0200/install_email.png)  
+![test image]({{ site.baseurl }}/img/200/install_email.png)  
 
 
 >Log in to Salesforce as an Admin User
