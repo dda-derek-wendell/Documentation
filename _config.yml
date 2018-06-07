@@ -1,5 +1,5 @@
 full_rebuild: true
-baseurl: /Documentation
+baseurl: 
 name: Dodge Link Documentation
 author: Dodge Data & Analytics
 version: 1.0
