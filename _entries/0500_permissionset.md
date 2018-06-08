@@ -28,7 +28,7 @@ title: Create a Permission Set
 {:.warning}  
 
 >Scroll through the list of **Objects** to find the custom objects.  
->Select the custom object associated with the package.  
+>Select the Dodge custom object associated with the package.  
 
 ![Object Search]({{ site.baseurl }}/img/500/custom_object.png)  
 
@@ -40,14 +40,21 @@ title: Create a Permission Set
 
 ![Click Checkboxes Save]({{ site.baseurl }}/img/500/check_all.png)
 
->For custom objects with many fields, this step is tedious. For more advanced users copy and paste the following Javascript into your browsers developer's console:    
+>For Dodge custom objects with many fields, this step is tedious. For more advanced users copy and paste the following Javascript into your browsers developer's console:    
 {:.warning}
 ```javascript
 var allInputs = document.getElementsByTagName("input");  
 for(var i =0, max = allInputs.length; i < max; i++) {  
   if(allInputs[i].type ==='checkbox') allInputs[i].checked = true;  
 }
-```  
+``` 
+> Open your browsers developers console and paste the code:
 
->Repeat the above steps for all other custom objects associated with the package that is being installed.  
+![Dev_code]({{ site.baseurl }}/img/500/dev_console.png)
+
+>Press Enter and each checkbox will be checked and the custom object settings saved.
+
+![Dev_code_save]({{ site.baseurl }}/img/500/dev_console_save.png)
+
+>Repeat the above steps for all other Dodge custom objects associated with the package that is being installed.  
 >Other custom objects may include custom contact or lead objects.
