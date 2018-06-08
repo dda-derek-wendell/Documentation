@@ -24,7 +24,7 @@ title: Create a Permission Set
 
 ![Object Settings]({{ site.baseurl }}/img/500/object_settings.png)
 
->The following steps will have to be repeated for __all__ Dodge custom objects.  Search Dodge in the Permission Set Find Settings... or Please talk to your sales rep to obtain the list of custom objects.  
+>The following steps will have to be repeated for __all__ Dodge custom objects.  Search Dodge in the Permission Set Find Settings... or please talk to your sales rep to obtain the list of custom objects.  
 {:.warning}  
 
 >Scroll through the list of **Objects** to find the custom objects.  
