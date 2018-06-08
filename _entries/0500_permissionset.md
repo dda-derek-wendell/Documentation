@@ -47,7 +47,13 @@ var allInputs = document.getElementsByTagName("input");
 for(var i =0, max = allInputs.length; i < max; i++) {  
   if(allInputs[i].type ==='checkbox') allInputs[i].checked = true;  
 }
-```  
+> Open your browsers developers console and paste the code:
 
->Repeat the above steps for all other custom objects associated with the package that is being installed.  
+![Dev_code]({{ site.baseurl }}/img/500/dev_console.png)
+
+>Press Enter and each checkbox will be checked and the custom object settings saved.
+
+![Dev_code_save]({{ site.baseurl }}/img/500/dev_console_save.png)
+
+>Repeat the above steps for all other Dodge custom objects associated with the package that is being installed.  
 >Other custom objects may include custom contact or lead objects.
