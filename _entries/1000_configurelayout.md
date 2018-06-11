@@ -5,7 +5,7 @@ parent-id: documentation
 number: 1000
 title: Configure Page Layouts
 ---
->You will need to configure a layout for each Object that is being added / modified to the Salesforce instance. This likely includes an Account and Contact object. Perform the following steps for each Salesforce Page that requires updating.
+>You will need to configure a layout for each Object that is being added / modified to the Salesforce instance. This includes an Account, Contact and Lead object. Perform the following steps for each Salesforce Page that requires updating.
 {:.warning}
 
 >Classic:  
@@ -54,5 +54,5 @@ title: Configure Page Layouts
 
 ![Click Save Button]({{ site.baseurl }}/img/1000/save_account_layout.png)
 
->Repeat the previous steps for other Salesforce Objects that are being modified, most likely Contact
+>Repeat the previous steps for the Contacts and Leads Salesforce Objects that are being modified
 {:.warning}
