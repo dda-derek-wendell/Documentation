@@ -9,9 +9,10 @@ title: Configure Custom Object Layouts
 
 >This step helps to rearrange or add/remove Dodge fields in the custom objects.
 
-**This step is optional**
+>**This step is optional**
 
-Classic:
+>Classic:
+
 **Type "objects"** into the quick find / search box. **Click** on the **Create** -> **Objects** link.
 ![Objects Quick Find]({{ site.baseurl }}/img/1100/search_for_objects.png)  
 **Click** the **custom object** associated with the account (example: MCH_School)
@@ -31,6 +32,7 @@ Scroll down to "Page Layouts", **click "Edit"** next to the only layout listed.
 
 >Any fields can be selected, however only fields the customer has licensed in their order will be populated.  
 {:.alert}
+![Click Custom Object]({{ site.baseurl }}/img/1100/add_field_layout.png)
 >**Click "Save"**  
 
 >Repeat these steps for any other custom objects, most likely Contact
