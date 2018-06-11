@@ -6,7 +6,9 @@ number: 1100
 title: Configure Custom Object Layouts
 ---
 
->Classic:  
+>This step  helps to rearrange or add/remove Dodge fields in the custom objects.
+This step is optional.
+Classic:
 **Type "objects"** into the quick find / search box. **Click** on the **Create** -> **Objects** link.
 ![Objects Quick Find]({{ site.baseurl }}/img/1100/search_for_objects.png)  
 **Click** the **custom object** associated with the account (example: MCH_School)
