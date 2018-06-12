@@ -13,3 +13,5 @@ Salesforce user with Admin permissions
 Salesforce Professional with Bulk API or higher edition
 
 **Estimated time to complete:** 30 minutes
+
+**For help call Dodge Customer Care at 1-800-393-6343**
