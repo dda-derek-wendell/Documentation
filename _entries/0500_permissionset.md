@@ -40,7 +40,7 @@ title: Create a Permission Set
 
 ![Click Checkboxes Save]({{ site.baseurl }}/img/500/check_all.png)
 
->For Dodge custom objects with many fields, this step is tedious.  It is easier to copy and paste the following Javascript into your browsers developer's console:
+>For Dodge custom objects with many fields, this step is tedious.  It is easier to copy and paste the following Javascript into your browsers developer's console: **Must be done in Classic and not Lightning**
 {:.warning}
 ```javascript
 var allInputs = document.getElementsByTagName("input");  
