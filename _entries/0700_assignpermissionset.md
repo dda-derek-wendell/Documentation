@@ -22,4 +22,4 @@ title: Assign the Permission Set
 
 ![Object Settings]({{ site.baseurl }}/img/700/assign_perm_user.png)
 
->**Note**: Each user of Dodge Link will need to **Assign** this permission set to their user name.  This can be done now or later.
+>**Note**: Each user of Dodge Link will need to be assigned this permission set.  This can be done now or later.
