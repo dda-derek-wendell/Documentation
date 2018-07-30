@@ -10,8 +10,7 @@ title: Congratulations
 
 >**Reminders**
   
->1)Did you assign users to the Dodge Link Permission Set
- 2)Did you **Add** users tyo the license under **Manage Licenses**
+>1) Did you assign users to the Dodge Link Permission Set                                                                                    2) Did you **Add** users tyo the license under **Manage Licenses**
  
 
 > If you need assistance, Please call Dodge Customer Care at **1-800-393-6343**
