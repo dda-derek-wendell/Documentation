@@ -1,3 +1,4 @@
+---
 sectionclass: h2
 sectionid: installcomplete
 parent-id: documentation
