@@ -58,3 +58,5 @@ for(var i =0, max = allInputs.length; i < max; i++) {
 
 >Repeat the above steps for all other Dodge custom objects associated with the package that is being installed.  
 >Other custom objects may include custom contact or lead objects.
+
+>**Optional Suggestion** - For security reasons, it may be wise to clone this perssion set, remove the Dodge Install custom object from the cloned perssion set and **assign** non admin users to this cloned permission set.
