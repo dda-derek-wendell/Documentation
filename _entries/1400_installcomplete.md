@@ -6,7 +6,7 @@ number: 1400
 title: Setup Complete
 ---
 
-> Congratulations Dodge Link should be successfully installed.  To confirm Dodge Link is setup correctly do the search parameters appear when you click on Dodge Prospecting?  If they do not please check your user is added to the permission set (step 1.6) and to the license (step 1.7)  
+> **Congratulations** Dodge Link should be successfully installed.  To confirm Dodge Link is setup correctly do the search parameters appear when you click on Dodge Prospecting?  If they do not please check your user is added to the permission set (step 1.6) and to the license (step 1.7)  
 
 >**Reminders**
   
