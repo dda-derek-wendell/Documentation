@@ -5,7 +5,7 @@ parent-id: documentation
 number: 1350
 title: Set up Lead Source with Process Builder (Optional)
 ---
->This configuration is **optional** and availability will depend on the version of your Salesforce package.  Please talk to your data provider to see if this feature is available.  
+>This configuration is **optional** and is availability on 1.3 and higher versions in Salesforce.  
 {:.warning}
 
 >Assigning a custom lead/account source value to records created by the Salesforce package is a recommended best practice.  A few of the benefits are:  
