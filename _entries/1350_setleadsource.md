@@ -2,7 +2,7 @@
 sectionclass: h2
 sectionid: setleadsource
 parent-id: documentation
-number: 1500
+number: 1350
 title: Set up Lead Source with Process Builder (Optional)
 ---
 >This configuration is **optional** and availability will depend on the version of your Salesforce package.  Please talk to your data provider to see if this feature is available.  
