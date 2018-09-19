@@ -9,7 +9,7 @@ title: Add the new Account/Lead Source picklist value
 {:.warning}
 
 > In Salesforce got to Setup then type "Accounts" in Quick Find 
-<br>Under Accounts Click **Fields**
-<br>Click **Account Source** field  
-<br>Under Account/Lead Source Picklist Values, click **New**  
-<br>Type **Dodge Link** and click **Save**  
+Under Accounts Click **Fields**
+Click **Account Source** field  
+Under **Account/Lead** Source Picklist Values, click **New**  
+Type **Dodge Link** and click **Save**  
