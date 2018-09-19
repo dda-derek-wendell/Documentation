@@ -3,25 +3,18 @@ sectionclass: h2
 sectionid: setleadsource
 parent-id: documentation
 number: 1350
-title: Set up Lead Source with Process Builder (Optional)
+title: Add Dodge Link as Account or Lead Source with Process Builder (Optional)
 ---
 >This configuration is **optional** and is availability on 1.3 and higher versions in Salesforce.  
 {:.warning}
 
->Assigning a custom lead/account source value to records created by the Salesforce package is a recommended best practice.  A few of the benefits are:  
+>Adding Dodge Link as the source for each account, contact and lead created by the Salesforce package could be helpful so it is a recommended best practice.  It will help with identifying records added by Dodge Prospecting and creating views on Accounts, Contacts and Leads 
 
-●  Administrators are able to identify records added by the prospecting feature  
-●  Filtered views can be created for Accounts, Contacts, Leads
+>There are 3 required steps if your version is 1.2, otherwise  there are only 2 steps.
 
+●  For those on version 1.2 you must upgrade to 1.3 or the latest version.  Contact Dodge Customer Care to get the upgrade Link.  Follow the provided instructions to install and configure the instructions. 
+●  1.41 will add a new picklist value
+●  1.42 Create workflow in Process Builder 
+●  You will need Identify the Salesforce package's names for the custom account, contact, and lead objects (Setup > Objects > list of objects for the installed package). These will be referred to as **Custom_Account, Custom_Contact,** and **Custom_Contact_Lead** objects in the Process Builder instructions.  
 
->Before beginning, you will need to:  
-
-●  Obtain system administrator access to the Salesforce org   
-●  Decide on a custom source picklist value.  It is recommended to use the package name. This will be referred to as **picklist value** in the Process Builder instructions.  
-●  Identify the Salesforce package's namespace. (Setup > Installed Packages > value in the table under "Namespace Prefix").  This will be referred to as **PackageNamespace** in the Process Builder instructions.  
-●  Identify the Salesforce package's names for the custom account, contact, and lead objects (Setup > Objects > list of objects for the installed package). These will be referred to as **Custom_Account, Custom_Contact,** and **Custom_Contact_Lead** objects in the Process Builder instructions.  
-
-
->Description:  
-
-The package's custom objects will each have a field for __Source__.  When the record is created using Prospecting, the value of Source will be __Y__.  For records that previously existed or were created by any other process, the Source value will be blank.  Using the criteria __Source = Y__, we can determine that the source of the record is the Salesforce package.  
+ 
