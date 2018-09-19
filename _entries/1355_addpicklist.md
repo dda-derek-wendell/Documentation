@@ -5,10 +5,11 @@ parent-id: setleadsource
 number: 1355
 title: Add the new Account/Lead Source picklist value
 ---
->There is one picklist that is used for Lead Source, Account Source, and Contact (Lead) Source.  The custom source picklist value will only needed to be added to the picklist once.  
+>There is a single picklist that is used for Lead Source, Account Source, and Contact (Lead) Source.  Dodge Link will be added as a new pick list value.  
 {:.warning}
 
-> Setup > type "Accounts" in Quick Find > click **Fields** (under Accounts)  
-Click **Account Source** field  
-Under Account/Lead Source Picklist Values, click **New**  
-Type the name of the custom source value, click **Save**  
+> In Salesforce got to Setup then type "Accounts" in Quick Find 
+<br>Under Accounts Click **Fields**
+<br>Click **Account Source** field  
+<br>Under Account/Lead Source Picklist Values, click **New**  
+<br>Type **Dodge Link** and click **Save**  
