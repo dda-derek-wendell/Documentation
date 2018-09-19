@@ -12,6 +12,6 @@ title: Add Dodge Link as Account or Lead Source with Process Builder (Optional)
 
 >There are 3 required steps if your version is 1.2, otherwise  there are only 2 steps.
 
-● For those on version 1.2 you must upgrade to 1.3 or the latest version.  Contact Dodge Customer Care to get the upgrade Link.  Follow the provided instructions to install and configure the instructions. <br>
+● If on version 1.2 you must upgrade to 1.3 or the latest version.  Contact Dodge Customer Care to get the upgrade Link.  Follow the provided instructions to install and configure the instructions. <br>
 ●  1.41 will add a new picklist value <br>
 ●  1.42 Create workflow in Process Builder <br>
