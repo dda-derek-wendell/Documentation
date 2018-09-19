@@ -15,6 +15,3 @@ title: Add Dodge Link as Account or Lead Source with Process Builder (Optional)
 ● For those on version 1.2 you must upgrade to 1.3 or the latest version.  Contact Dodge Customer Care to get the upgrade Link.  Follow the provided instructions to install and configure the instructions. <br>
 ●  1.41 will add a new picklist value <br>
 ●  1.42 Create workflow in Process Builder <br>
-●  You will need Identify the Salesforce package's names for the custom account, contact, and lead objects (Setup > Objects > list of objects for the installed package). These will be referred to as **Custom_Account, Custom_Contact,** and **Custom_Contact_Lead** objects in the Process Builder instructions.  <br>
-
- 
