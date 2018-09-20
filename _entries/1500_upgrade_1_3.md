@@ -21,6 +21,7 @@ title: Instructions for upgrading version 1.3
 5.	Select Dodge_Accounts_Leads and click **Edit**
 6.	Click Edit Access box next to the field **Source**
 7.	Click **Save**<br>
+<br>
 •	Repeat Steps 1 – 7 for the following Dodge Link Custom Objects<br>
 •	Dodge_Contact<br>
 •	Dodge_Account_Lead<br>
