@@ -18,15 +18,15 @@ Sugdested names for each Process Builder Process are:
 >Setup > type "process builder" in Quick Find > click **Process Builder** (under Workflow & Approvals)  
 
 ><p style="color:red">
-  Start by creating the Process for Accounts<br>
-  You will change the process name accordingly when creating the process for contacts and leads111</p>
+Start by creating the Process for Accounts<br>
+When creating Contact and Lead processes, the process names will be "Set Source on Contact to Dodge Link" or "Set Source on Lead to Dodge Link" accordingly./p>
   
 >Click **New** button
   ・Process Name: **Set Source on Account to Dodge Link**  
   ・The process starts when: **a record changes **
   ・Click **Save**
+  
 ![Process_Builder_NewProcess]({{ site.baseurl }}/img/1500/Process_Builder_NewProcess.png)  
-
 
 >Click **Add Object**  
   ・    Object: Choose **Dodge_Account**   
@@ -35,8 +35,11 @@ Sugdested names for each Process Builder Process are:
 
 ![Process_Builder_AddObject]({{ site.baseurl }}/img/1500/Process_Builder_AddObject.png)
 
+><p style="color:red">
+ When creating Contact and Lead processes and at the below step to "Add Criteria" you will change the criteria name to Dodge Contact Source = Y or Dodge Lead Source = Y accordingly</p>
+
 >Click **Add Criteria**   
-  ・Criteria Name: **Custom Object Source = Y** (This name is not important)  
+  ・Criteria Name: **Dodge Account Source = Y** 
   ・Criteria for Executing Actions: **Conditions are met**  
   ・Set Conditions: Choose the Source field.  
       ・Field = Source   
@@ -48,23 +51,28 @@ Sugdested names for each Process Builder Process are:
 
 ![Process_Builder_AddCriteria]({{ site.baseurl }}/img/1500/Process_Builder_AddCriteria.png)
 
-
+<p style="color:red">
+When you are creating the Contact or Lead process and at the below step to to add an action you will change the record type to Dodge_Contacts or Dodge_Contact_Lead and the field to Contacts or Leads accordingly</p>
+  
 >Click **Add Action**  
   ・    Action Type: **Update Records**  
   ・    Action Name: **Update Source**  
-  ・    Record Type: **Select a record related to the (custom object)**  
-  ・    Choose **Account | Contact | Lead** depending on process being built. Do not choose **Account > | Contact > | Lead >**  
+  ・    Record Type: **Select a record related to the dodge_Dodge_Account_c**  
+  ・    Choose Field : **Account**  Do not choose any value with ">" like **Account > | Contact > | Lead >**  
   ・    Click **Choose**  
 
 ![Process_Builder_SelectRecord]({{ site.baseurl }}/img/1500/Process_Builder_SelectRecord.png)  
 
->  ・    Criteria for updating records: **No criteria - just update the records!**  
+>  ・   Criteria for updating records: **No criteria - just update the records!**  
   ・    Field: For Accounts, choose **Account Source**.  For Contacts or Leads, choose **Lead Source**  
-  ・    Type: **Picklist**  
-  ・    Value: choose the picklist value created  
+  ・    Type: **Select Picklist**  
+  ・    Value: **Choose Dodge Link**   
 
 ![Process_Builder_Actions]({{ site.baseurl }}/img/1500/Process_Builder_Actions.png)
 
 >Click **Save**  
-Review your entries, and click **Activate**  
-Repeat the Process Builder instructions to create processes for Accounts, Contacts, and Leads  
+>Review your entries, and click **Activate**  
+
+><p style="color:red">
+   Repeat the Process Builder instructions to create processes Contacts, and Leads </p>
+  
