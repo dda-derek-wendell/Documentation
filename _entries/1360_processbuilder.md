@@ -17,9 +17,11 @@ Sugdested names for each Process Builder Process are:
 
 >Setup > type "process builder" in Quick Find > click **Process Builder** (under Workflow & Approvals)  
 
-><p style="color:red">You will change the process name accordingly when creating the process for contacts and leads111</p>
-Click **New** button
-Start by creating the Process for Accounts<br>
+><p style="color:red">
+  Start by creating the Process for Accounts<br>
+  You will change the process name accordingly when creating the process for contacts and leads111</p>
+  
+>Click **New** button
   ・Process Name: **Set Source on Account to Dodge Link**  
   ・The process starts when: **a record changes **
   ・Click **Save**
