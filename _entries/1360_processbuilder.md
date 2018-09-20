@@ -5,16 +5,20 @@ parent-id: setleadsource
 number: 1360
 title: Process Builder
 ---
->This step will create 3 seperate Process Builder workflows.  There will be one for Accounts, Contacts, and Leads.  The workflow will select the Dodge Link pick list value and add it to the Account Source or Lead Source when a record is created by Dodge Prospecting. 
+>This step will create 3 seperate Process Builder processes.  There will be one for Accounts, Contacts, and Leads.  Each process will select the Dodge Link pick list value and add it to the Account Source or Lead Source when a record is created by Dodge Prospecting. 
+
+**Note:**  Once these processes are activated **Dodge Link** will be added to newly created records. Records previously created by Dodge Prospecting will continue to have a blank value in Account or Lead Source unless they are updated manually.  
 {:.warning}
 
 >Setup > type "process builder" in Quick Find > click **Process Builder** (under Workflow & Approvals)  
 Click **New** button 
 
+Sugested names for each Process Builder Process are:
+<br>Accounts = **Set Source on Account to Dodge Link** 
+<br>Contacts = **Set Source on Contacts to Dodge Link**
+<br>Leads = **Set Source on Leads to Dodge Link** 
 
-Name the process **Set Source on Account to *Dodge Link** 
-
-  ・    The process starts when **A record changes**  
+ 
 
 ![Process_Builder_NewProcess]({{ site.baseurl }}/img/1500/Process_Builder_NewProcess.png)  
 
