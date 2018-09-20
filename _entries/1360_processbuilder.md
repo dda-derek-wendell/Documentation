@@ -15,12 +15,15 @@ Sugested names for each Process Builder Process are:
  **Note:**  Once these processes are activated **Dodge Link** will be added to newly created records. Records previously created by Dodge Prospecting will continue to have a blank value in Account or Lead Source unless they are updated manually.  
 {:.warning}
 
-
-
 >Setup > type "process builder" in Quick Find > click **Process Builder** (under Workflow & Approvals)  
-Start by creating the Process for Accounts
 
-Click **New** button 
+
+>Click **New** button
+Start by creating the Process for Accounts
+  ・    Process Name: **Set Source on Account to Dodge Link**  **Note** <p style="color:red">Change the name accordingly for contacts and leads</p>
+  ・   The process starts when: **a record changes **
+  ・    Click **Save**
+
 ![Process_Builder_NewProcess]({{ site.baseurl }}/img/1500/Process_Builder_NewProcess.png)  
 
 >Click **Add Object**  
