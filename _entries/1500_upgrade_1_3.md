@@ -2,16 +2,31 @@
 sectionclass: h2
 sectionid: installcomplete
 parent-id: documentation
-number: 1500
-title: Congratulations 
+number: 2000
+title: Instructions for upgrading version 1.3 
 ---
 
-> **Congratulations** Dodge Link should be successfully installed.  The first indication whether Dodge Link is setup correctly is if the search parameters appear when you click on Dodge Prospecting.  If you get an error  regarding permissioning please check your user is added to the permission set (step 1.6) and to the license (step 1.7)  
+> Upgrade URL:   https://login.salesforce.com/packaging/installPackage.apexp?p0=04tf4000003Adyx
 
->**Reminders**
-  
->1) Did you assign users to the Dodge Link Permission Set
-<br />2) Did you **Add** users tyo the license under **Manage Licenses**
- 
+> **Upgrade Instructions**
 
-> If you need assistance, Please call Dodge Customer Care at **1-800-393-6343**
+•	Must be done by a CRM Administrator
+•	Click on the URL or paste it into the browser
+•	Install the Upgrade (Select Install for ALL Users)
+•	Enable new fields in Dodge Link Permission Set
+1.	Click Setup
+2.	In Quick Find type **Permission Set**
+3.	Click on the Permission Set Name **Dodge Link**
+4.	Click on Object Settings
+5.	Select Dodge_Accounts_Leads and click **Edit**
+6.	Click Edit Access box next to the field **Source**
+7.	Click **Save**
+•	Repeat Steps 1 – 7 for the following Dodge Link Custom Objects
+•	Dodge_Contact
+•	Dodge_Account_Lead
+•	Dodge_Contact_Lead
+•	When complete contact Dodge Customer care to the new field Source can be enabled
+•	Dodge will notify you when complete so you can continue with the Process Builder steps
+
+
+> If you need assistance, Please call Dodge Customer Care at **1-800-393-6343** or email support@construction.com
