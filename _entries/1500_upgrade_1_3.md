@@ -14,19 +14,22 @@ title: Instructions for upgrading version 1.3
 •	Click on the URL or paste it into the browser
 •	Install the Upgrade (Select Install for ALL Users)
 •	Enable new fields in Dodge Link Permission Set
-1.	Click Setup
+>
+1.Click Setup
 2.	In Quick Find type **Permission Set**
 3.	Click on the Permission Set Name **Dodge Link**
 4.	Click on Object Settings
 5.	Select Dodge_Accounts_Leads and click **Edit**
 6.	Click Edit Access box next to the field **Source**
 7.	Click **Save**<br>
-<br>
+>
 •	Repeat Steps 1 – 7 for the following Dodge Link Custom Objects<br>
 •	Dodge_Contact<br>
-•	Dodge_Account_Lead<br>
-•	Dodge_Contact_Lead<br>
-•	When complete contact Dodge Customer care to the new field Source can be activated<br>
+•	Dodge_Account_Lead
+•	Dodge_Contact_Lead
+<br>
+>
+•	When complete contact Dodge Customer care to the new field Source can be activated
 •	Dodge will notify you when complete so you can continue with the Process Builder steps
 
 
