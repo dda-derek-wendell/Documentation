@@ -24,7 +24,7 @@ When creating Contact and Lead processes, the process names will be "Set Source 
 >Click **New** button
   ・Process Name: **Set Source on Account to Dodge Link**  
   ・The process starts when: **a record changes **
-  ・Click **Save**
+  ・Click **Save**  
   
 ![Process_Builder_NewProcess]({{ site.baseurl }}/img/1500/Process_Builder_NewProcess.png)  
 
@@ -47,7 +47,7 @@ When creating Contact and Lead processes, the process names will be "Set Source 
       ・Type = String  
       ・Value = Y  
   ・Conditions **All of the conditions are met (AND)**  
-  ・**Save**  
+  ・Click **Save**  
 
 ![Process_Builder_AddCriteria]({{ site.baseurl }}/img/1500/Process_Builder_AddCriteria.png)
 
