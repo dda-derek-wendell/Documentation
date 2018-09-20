@@ -7,28 +7,26 @@ title: Process Builder
 ---
 >This step will create 3 seperate Process Builder processes.  There will be one for Accounts, Contacts, and Leads.  Each process will select the Dodge Link pick list value and add it to the Account Source or Lead Source when a record is created by Dodge Prospecting. 
 
-**Note:**  Once these processes are activated **Dodge Link** will be added to newly created records. Records previously created by Dodge Prospecting will continue to have a blank value in Account or Lead Source unless they are updated manually.  
-{:.warning}
-
->Setup > type "process builder" in Quick Find > click **Process Builder** (under Workflow & Approvals)  
-Click **New** button 
-
 Sugested names for each Process Builder Process are:
 <br>Accounts = **Set Source on Account to Dodge Link** 
 <br>Contacts = **Set Source on Contacts to Dodge Link**
 <br>Leads = **Set Source on Leads to Dodge Link** 
 
- 
+ **Note:**  Once these processes are activated **Dodge Link** will be added to newly created records. Records previously created by Dodge Prospecting will continue to have a blank value in Account or Lead Source unless they are updated manually.  
+{:.warning}
+
+>Setup > type "process builder" in Quick Find > click **Process Builder** (under Workflow & Approvals)  
+Click **New** button 
 
 ![Process_Builder_NewProcess]({{ site.baseurl }}/img/1500/Process_Builder_NewProcess.png)  
 
->Click **Add Object**  
-  ・    Object: Choose **Dodge_Account, Custom_Contact,** or **Custom_Contact_Lead** object depending on which process is being built (ex, *ABC_Account, ABC_Contact, ABC_Contact_Lead*)  
-  ・    Start the process **only when a record is created**    
+>Start by creating the Process for Accounts
+Click **Add Object**  
+  ・    Object: Choose **Dodge_Account**   
+  ・    Start the process: **only when a record is created**    
   ・    Click **Save**  
 
 ![Process_Builder_AddObject]({{ site.baseurl }}/img/1500/Process_Builder_AddObject.png)
-
 
 >Click **Add Criteria**   
   ・    Criteria Name: **Custom Object Source = Y** (This name is not important)  
