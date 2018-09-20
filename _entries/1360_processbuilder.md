@@ -19,7 +19,7 @@ Sugested names for each Process Builder Process are:
 
 >Click **New** button
 Start by creating the Process for Accounts<br>
-**Note** <p style="color:red">Change the process name accordingly when creating process for contacts and leads</p> <br>
+<p style="color:red">Change the process name accordingly when creating process for contacts and leads</p> <br>
   ・    Process Name: **Set Source on Account to Dodge Link**  
   ・    The process starts when: **a record changes **
   ・    Click **Save**
