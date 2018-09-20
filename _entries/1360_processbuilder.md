@@ -22,11 +22,11 @@ Start by creating the Process for Accounts<br>
   ・Process Name: **Set Source on Account to Dodge Link**  
   ・The process starts when: **a record changes **
   ・Click **Save**
+![Process_Builder_NewProcess]({{ site.baseurl }}/img/1500/Process_Builder_NewProcess.png)  
 <p style="color:red">
 You will change the process name accordingly when creating the process for contacts and leads
 </p>
 
-![Process_Builder_NewProcess]({{ site.baseurl }}/img/1500/Process_Builder_NewProcess.png)  
 
 >Click **Add Object**  
   ・    Object: Choose **Dodge_Account**   
