@@ -19,10 +19,10 @@ Sugested names for each Process Builder Process are:
 
 >Click **New** button
 Start by creating the Process for Accounts<br>
-<p style="color:red">Change the process name accordingly when creating process for contacts and leads</p> <br>
-  ・    Process Name: **Set Source on Account to Dodge Link**  
-  ・    The process starts when: **a record changes **
-  ・    Click **Save**
+**<p style="color:red"Change the process name accordingly when creating process for contacts and leads</p>**
+  ・Process Name: **Set Source on Account to Dodge Link**  
+  ・The process starts when: **a record changes **
+  ・Click **Save**
 
 ![Process_Builder_NewProcess]({{ site.baseurl }}/img/1500/Process_Builder_NewProcess.png)  
 
@@ -34,15 +34,15 @@ Start by creating the Process for Accounts<br>
 ![Process_Builder_AddObject]({{ site.baseurl }}/img/1500/Process_Builder_AddObject.png)
 
 >Click **Add Criteria**   
-  ・    Criteria Name: **Custom Object Source = Y** (This name is not important)  
-  ・    Criteria for Executing Actions: **Conditions are met**  
-  ・    Set Conditions: Choose the Source field.  
-      ・    Field = Source   
-      ・    Operator = Equals  
-      ・    Type = String  
-      ・    Value = Y  
-  ・    Conditions **All of the conditions are met (AND)**  
-  ・    **Save**  
+  ・Criteria Name: **Custom Object Source = Y** (This name is not important)  
+  ・Criteria for Executing Actions: **Conditions are met**  
+  ・Set Conditions: Choose the Source field.  
+      ・Field = Source   
+      ・Operator = Equals  
+      ・Type = String  
+      ・Value = Y  
+  ・Conditions **All of the conditions are met (AND)**  
+  ・**Save**  
 
 ![Process_Builder_AddCriteria]({{ site.baseurl }}/img/1500/Process_Builder_AddCriteria.png)
 
