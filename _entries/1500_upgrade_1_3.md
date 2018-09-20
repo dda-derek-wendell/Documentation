@@ -20,12 +20,12 @@ title: Instructions for upgrading version 1.3
 4.	Click on Object Settings
 5.	Select Dodge_Accounts_Leads and click **Edit**
 6.	Click Edit Access box next to the field **Source**
-7.	Click **Save**
-•	Repeat Steps 1 – 7 for the following Dodge Link Custom Objects
+7.	Click **Save**<br>
+•	Repeat Steps 1 – 7 for the following Dodge Link Custom Objects<br>
 •	Dodge_Contact
 •	Dodge_Account_Lead
 •	Dodge_Contact_Lead
-•	When complete contact Dodge Customer care to the new field Source can be enabled
+•	When complete contact Dodge Customer care to the new field Source can be activated
 •	Dodge will notify you when complete so you can continue with the Process Builder steps
 
 
