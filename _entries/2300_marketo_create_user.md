@@ -16,8 +16,8 @@ Click **New Role**
 ![New Role]({{ site.baseurl }}/img/2300/new_role.jpg)  
 
 >Role Name: **API Role**  
-Name of this API Role is not important<br>
-Permissions:  **Access API**  
+The API Role Name can be any name.  Just make sure the name is used steps to follow<br>
+Under Permissions:  **Access API**  
 Click **Create**
 
 ![New Role]({{ site.baseurl }}/img/2300/create_role.jpg)  
