@@ -12,7 +12,7 @@ In the sidebar menu, under **Security**, click **Users & Roles**
 Click the **Roles** tab  
 Click **New Role**
 
-![New Role]({{ site.baseurl }}/img/2300/new_role.jpg)  
+![New Role]({{ site.baseurl }}/img/2300/new_role_step1.jpg)  
 
 >Role Name: **API Role**  
 Permissions:  **Access API**  
