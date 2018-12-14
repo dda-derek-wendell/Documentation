@@ -6,7 +6,7 @@ number: 2300
 title: Create API Only User
 ---
 
->Log into Marketo
+>Log into Marketo<br>
 This step you will create a **API Only** Role.  
 Click the **Admin** menu item at the top of the page  
 In the sidebar menu, under **Security**, click **Users & Roles**  
@@ -16,7 +16,7 @@ Click **New Role**
 ![New Role]({{ site.baseurl }}/img/2300/new_role.jpg)  
 
 >Role Name: **API Role**  
-Name of this API Role is not important
+Name of this API Role is not important<br>
 Permissions:  **Access API**  
 Click **Create**
 
