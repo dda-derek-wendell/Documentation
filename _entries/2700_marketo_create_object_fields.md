@@ -7,9 +7,9 @@ title: Create Marketo Custom Fields
 ---
 
 
->Using the Customer Portal's **Instance Fields** validation tool as a reference, you will now create the fields on the custom objects in Marketo.  Marketo has a limit of 47 custom fields per object.
-In the Customer Portal, click on a custom object name to expand the list of fields.  
+>This step Dodge fields wills be created in each of the custom objects in Marketo. 
 
+In the Dodge Link Portal, click on a one of the custom object names (dodge_Account_c, dodge_Contact_c, dodge_Project_c, dodge_Role_c) to expand the list of fields. 
 
 >The **status** will show with errors until the fields are created and the object is approved.  
 {:.warning}
@@ -17,29 +17,34 @@ In the Customer Portal, click on a custom object name to expand the list of fiel
 {:.warning}
 ![test image]({{ site.baseurl }}/img/2700/instance_fields_fields.jpg)
 
-
 >Marketo will automatically create fields for **Created At**, **Marketo GUID**, and **Updated At**
 
 ![test image]({{ site.baseurl }}/img/2700/marketo_automatic_fields.jpg)
 
->In Marketo, Click on **Marketo Custom Objects** in the sidebar Admin menu, and then Click **Fields** at the top  
+>In Marketo, Click on **Marketo Custom Objects** in the sidebar Admin menu, select one of the Dodge custom objects, and then Click **Fields** at the top  
 Click **New Field**   
 
 ![test image]({{ site.baseurl }}/img/2700/click_fields.jpg)
 
 
->Create the **leadId** field that will link the custom object to the **Person** object.  The Person object was formerly called the Lead object.  This step needs to be repeated for each custom object created.  
+>Create the **leadId** field that will link the custom object to the **Person** object.  The Person object was formerly called the Lead object. Each Dodge custom object needs this leadId field. Repeat this step for the remaining custom objects. 
 
->API Name is **case sensitive**  
->Be sure to use **Data Type: link** and **Dedupe Field: Yes**  
+>It is important to know that the API Name is **case sensitive**.
+>Be sure to use **Data Type: link** and **Dedupe Field: Yes** 
+> dodge_Account and dodge_Contact will each have 1 more field marked at **Dedupe Field: Yes**.  Otherwise do not make any other field **Dedupe Field: Yes**   
 {:.warning}
 
 ![test image]({{ site.baseurl }}/img/2700/leadId_field.png)
 
 >Create the rest of the fields using the Customer Portal's Instance Fields tool as a guide for API names and Types.
+<br> Which Dodge fields are created in each object is personal preference.  Marketo has a limit of 47 fields per custom object. 
 
->API Name is **case sensitive**  
->Do not mark any fields other than **leadId** as a dedupe field.    
+>**Dedupe Field: Yes** for dodge_Account and dodge_Contact
+![test image]({{ site.baseurl }}/img/2700/Dodge_account_dedupe.jpg)
+![test image]({{ site.baseurl }}/img/2700/Dodge_contact_dedupe.jpg)
+
+>Remember the API Name is **case sensitive**  
+   
 {:.warning}
 
 ![test image]({{ site.baseurl }}/img/2700/new_field.jpg)
