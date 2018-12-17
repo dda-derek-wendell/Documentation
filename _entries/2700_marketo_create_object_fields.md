@@ -39,21 +39,21 @@ Click **New Field**
 >Create the rest of the fields using the Customer Portal's Instance Fields tool as a guide for API names and Types.
 <br> Which Dodge fields are created in each object is personal preference.  Marketo has a limit of 47 fields per custom object. 
 
->**Dedupe Field: Yes** for dodge_Account and dodge_Contact
-![test image]({{ site.baseurl }}/img/2700/Dodge_account_dedupe.jpg)
-![test image]({{ site.baseurl }}/img/2700/Dodge_contact_dedupe.jpg)
-
 >Remember the API Name is **case sensitive**  
    
 {:.warning}
 
 ![test image]({{ site.baseurl }}/img/2700/new_field.jpg)
 
->After creating all the fields, you must approve the object.
+>**Dedupe Field: Yes** for dodge_Account and dodge_Contact
+![test image]({{ site.baseurl }}/img/2700/Dodge_account_dedupe.jpg)
+![test image]({{ site.baseurl }}/img/2700/Dodge_contact_dedupe.jpg)
+
+>After creating all the fields , you must approve the object.
 On the **Marketo Custom Objects** tab, in the **Custom Object Actions** menu, click **Approve Object**  
 Click the **Approve** button to confirm
 
 ![test image]({{ site.baseurl }}/img/2700/approve_object.jpg)
 
->Repeat steps for each custom object
+>Repeat steps for each Dodge custom object
 {:.warning}
