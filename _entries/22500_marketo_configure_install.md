@@ -10,10 +10,11 @@ title: Configure Install in Customer Portal
 
 ![test image]({{ site.baseurl }}/img/2500/invitation_email.jpg)  
 
->Follow instructions to set password   
-Log in to Customer Portal
+>Follow instructions to set password for the portal   
+Log in to your Dodge Link Customer Portal
 Click **Admin** button  
 In Admin Menu, select **Configure Install**
+<br> You will find values in Marketo and then paste them  into the portal
 
 ![test image]({{ site.baseurl }}/img/2500/configure_install_blank.jpg)  
 
