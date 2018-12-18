@@ -15,9 +15,9 @@ Incorrectly configured fields and objects will display with a red X and error me
 
 ![test image]({{ site.baseurl }}/img/2800/field_validation.jpg)
 
->**NAME_NOT_FOUND** could be that you did not create that field.  This is perfectly fine.
+**Note**:  "NAME_NOT_FOUND" could be that you did not create that field.  This is perfectly fine.
 
->The Dodge custom objects inthe Dodge Link Portal should look like this.  
+>The Dodge custom objects in the Dodge Link Portal should look like this.  
 <br>Either Ok or One or more fields is not configured is acceptable
 
 ![test image]({{ site.baseurl }}/img/2800/custom_object_validation.jpg)
