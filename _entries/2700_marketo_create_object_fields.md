@@ -45,9 +45,14 @@ Click **New Field**
 
 ![test image]({{ site.baseurl }}/img/2700/new_field.jpg)
 
->**Dedupe Field: Yes** for dodge_Projects and dodge_Roles
-![test image]({{ site.baseurl }}/img/2700/Dodge_account_dedupe.jpg)
-![test image]({{ site.baseurl }}/img/2700/Dodge_contact_dedupe.jpg)
+>**Dedupe Field: or dodge_Projects and dodge_Roles Look Like**
+![test image]({{ site.baseurl }}/img/2700/set_dodge_project_id_dedupe.jpg)
+<br>
+![test image]({{ site.baseurl }}/img/2700/dodge_projects_dedupe_fields.jpg)
+<br>
+![test image]({{ site.baseurl }}/img/2700/set_dodge_role_id_dedupe.jpg)
+<br>
+![test image]({{ site.baseurl }}/img/2700/dodge_role_dedupe_fields.jp
 
 >After creating all the fields , you must approve the object.
 On the **Marketo Custom Objects** tab, in the **Custom Object Actions** menu, click **Approve Object**  
