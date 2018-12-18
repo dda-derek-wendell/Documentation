@@ -45,7 +45,7 @@ Click **New Field**
 
 ![test image]({{ site.baseurl }}/img/2700/new_field.jpg)
 
->**Dedupe Field: Yes** for dodge_Account and dodge_Contact
+>**Dedupe Field: Yes** for dodge_Projects and dodge_Roles
 ![test image]({{ site.baseurl }}/img/2700/Dodge_account_dedupe.jpg)
 ![test image]({{ site.baseurl }}/img/2700/Dodge_contact_dedupe.jpg)
 
