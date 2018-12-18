@@ -16,11 +16,19 @@ Incorrectly configured fields and objects will display with a red X and error me
 ![test image]({{ site.baseurl }}/img/2800/field_validation.jpg)
 
 >**NAME_NOT_FOUND** could be that you did not create that field.  This is perfectly fine.
+
+
+The dodge custom objects inthe Dodge Link Pirtal should look like this.  
+<br>Either Ok or One or more fields is not configured is acceptable
+
+![test image]({{ site.baseurl }}/img/2800/custom_object_validation.jpg)
+
+
 <br>To make a field channge after the object has been approved follow these 4 steps
-<br><p>1. Delete the field
-<br><p>2. Approve the Dodge custom object
-<br><p>3. Add a New Field
-<br><p>4. Approve the Dodge custom Object
+<br>1. Delete the field
+<br>2. Approve the Dodge custom object
+<br>3. Add a New Field
+<br>4. Approve the Dodge custom Object
 
 
 >The Marketo integration will not work correctly until all objects and fields are correctly configured.
