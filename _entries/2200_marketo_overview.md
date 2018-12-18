@@ -12,4 +12,4 @@ Marketo user with Admin permissions
 Marketo license that includes Custom Objects (Innovate or Accelerate)  
 Invitation email that includes link, custom object configuration details  
 
->**Estimated time to complete:** 30-45 minutes
+>**Estimated time to complete:** 60 minutes.
