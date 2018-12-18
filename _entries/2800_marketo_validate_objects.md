@@ -17,14 +17,13 @@ Incorrectly configured fields and objects will display with a red X and error me
 
 >**NAME_NOT_FOUND** could be that you did not create that field.  This is perfectly fine.
 
-
-The dodge custom objects inthe Dodge Link Pirtal should look like this.  
+>The Dodge custom objects inthe Dodge Link Portal should look like this.  
 <br>Either Ok or One or more fields is not configured is acceptable
 
 ![test image]({{ site.baseurl }}/img/2800/custom_object_validation.jpg)
 
 
-<br>To make a field channge after the object has been approved follow these 4 steps
+>To make a field channge after the object has been approved follow these 4 steps
 <br>1. Delete the field
 <br>2. Approve the Dodge custom object
 <br>3. Add a New Field
