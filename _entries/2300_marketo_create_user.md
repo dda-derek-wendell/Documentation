@@ -39,7 +39,7 @@ Click **Invite New User**
 >**Step 2: Permissions**  Select **API Role** and **API Only** and Next  
 
 
-![New user]({{ site.baseurl }}/img/2300/new_user_step2.jpg)  
+![New user]({{ site.baseurl }}/img/2300/new_user_step2a.jpg)  
 
 
 >**Step 3: Message**  Click Send  
