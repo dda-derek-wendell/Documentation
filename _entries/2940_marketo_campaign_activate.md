@@ -12,5 +12,5 @@ title: Activate / Enable Campaign
 
 ![marketo_campaign_activate]({{ site.baseurl }}/img/2900/marketo_campaign_activate.png){:height="60%" width="60%"}
 
-> Now every time a lead is added through prospecting, the Lead Source will be set to the value provided.
-Verify by prospecting for new leads. 
+> Now every time a Contact is added  to Marketo using Dodge Prospecting, the Pead Source will be set to **Dodge Link**.
+
