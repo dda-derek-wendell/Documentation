@@ -8,7 +8,7 @@ title: Configure Smart List Trigger
 
 > Select **Smart List** under the Campaign you just created. 
 
-> From the right nav, under "Triggers", click and drag out the **Added to Custom Contact** entry. (This name will vary based on your integration.)
+> From the right nav, under "Triggers", click and drag out the **Added to dodge_Contact**.
 
 ![marketo_create_trigger]({{ site.baseurl }}/img/2900/marketo_create_trigger.png){:height="80%" width="80%"}
 
