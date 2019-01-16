@@ -12,6 +12,6 @@ title: Create Smart Campaign
 
 ![marketo_new_campaign]({{ site.baseurl }}/img/2900/marketo_new_campaign.png){:height="70%" width="70%"}
 
-> Name the campaign (example: "Custom Source Trigger") and click **Create**.
+> Name should be **Dodge Link Trigger** and click **Create**.
  
 ![marketo_create_campaign]({{ site.baseurl }}/img/2900/marketo_create_campaign.png){:height="50%" width="50%"}
