@@ -52,7 +52,7 @@ Click **New Field**
 <br>
 ![test image]({{ site.baseurl }}/img/2700/set_dodge_role_id_dedupe.jpg)
 <br>
-![test image]({{ site.baseurl }}/img/2700/dodge_role_dedupe_fields.jp
+![test image]({{ site.baseurl }}/img/2700/dodge_role_dedupe_fields.jpg)
 
 >After creating all the fields , you must approve the object.
 On the **Marketo Custom Objects** tab, in the **Custom Object Actions** menu, click **Approve Object**  
