@@ -5,24 +5,26 @@ parent-id: setleadsource
 number: 1360
 title: Process Builder
 ---
->This step will create 3 seperate Process Builder processes.  There will be one for Accounts, Contacts, and Leads.  Each process will select the Dodge Link pick list value and add it to the Account Source or Lead Source when a record is created by Dodge Prospecting. 
+>This step is recommended but not a requirement.
+>This step will create 3 seperate Process Builder processes.  There will be a process for Accounts, Contacts, and Leads.  These processes will run when a new account , contact or lead is created from Dodge Prospecting.
+The processes will Add the value **"Dodge Link"** to the Account Source or Lead Source field and change the owner of the record to the user that created the record from Dodge Prospecting.
 
-Sugdested names for each Process Builder Process are:
-<br>Accounts = **Set Source on Account to Dodge Link** 
-<br>Contacts = **Set Source on Contacts to Dodge Link**
-<br>Leads = **Set Source on Leads to Dodge Link** 
+Suggested names for each Process Builder Process are:
+<br>Accounts = **Set Source and Owner on Accounts to Dodge Link** 
+<br>Contacts = **Set Source and Owner on Contacts to Dodge Link**
+<br>Leads = **Set Source and Owner on Leads to Dodge Link** 
 
-**Note:**  Once these processes are activated **Dodge Link** will be added to newly created records. Records previously created by Dodge Prospecting will continue to have a blank value in Account or Lead Source unless they are updated manually.  
+**Please Note:** These processes only affect newly created records. Records previously created by Dodge Prospecting will not be affected.
 {:.warning}
 
 >Setup > type "process builder" in Quick Find > click **Process Builder** (under Workflow & Approvals)  
 
 ><p style="color:red">
 Start by creating the Process for Accounts<br>
-When creating Contact and Lead processes, the process names will be "Set Source on Contact to Dodge Link" or "Set Source on Lead to Dodge Link" accordingly./p>
+When creating Contact and Lead processes, the process names will be "Set Source and Owner on Contact to Dodge Link" or "Set Source and Owner on Lead to Dodge Link" accordingly./p>
   
 >Click **New** button
-  ・Process Name: **Set Source on Account to Dodge Link**  
+  ・Process Name: **Set Source and Owner on Account to Dodge Link**  
   ・The process starts when: **a record changes**<br>
   ・    Click **Save**  
   
