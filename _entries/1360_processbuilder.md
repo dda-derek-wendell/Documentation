@@ -58,7 +58,7 @@ When you are creating the Contact or Lead process and at the below step to to ad
   
 >Click **Add Action**  
   ・    Action Type: **Update Records**  
-  ・    Action Name: **Update Source**  
+  ・    Action Name: **Update Source and Owner**  
   ・    Record Type: **Select a record related to the dodge_Dodge_Account_c**  
   ・    Choose Field : **Account**  Do not choose any value with ">" like **Account > | Contact > | Lead >**  
   ・    Click **Choose**  
@@ -68,9 +68,13 @@ When you are creating the Contact or Lead process and at the below step to to ad
 >  ・   Criteria for updating records: **No criteria - just update the records!**  
   ・    Field: For Accounts, choose **Account Source**.  For Contacts or Leads, choose **Lead Source**  
   ・    Type: **Select Picklist**  
-  ・    Value: **Choose Dodge Link**   
-
-![Process_Builder_Actions]({{ site.baseurl }}/img/1500/Process_Builder_Actions.png)
+  ・    Value: **Choose Dodge Link**
+  
+  Add another Field
+  ・    Field: **Owner ID**. 
+  ・    Type: **Select Formula**  $User.Id**
+  
+  ![Process_Builder_Actions]({{ site.baseurl }}/img/1500/Process_Builder_Actions.png)
 
 >Click **Save**  
 >Review your entries, and click **Activate**  
