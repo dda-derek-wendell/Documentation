@@ -27,7 +27,7 @@ title: Instructions for upgrading version 1.4
 In the Quick Find , type in Custom Settings
 1.  Click on Dodge Link Settings
 2.  Click Edit or Manage
-3.  Put a Check in the box *Project Opportunity Enabled**
+3.  Put a Check in the box **Project Opportunity Enabled**
 4.  Click Save
 
 <br>
