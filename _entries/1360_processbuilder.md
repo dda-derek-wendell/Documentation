@@ -7,12 +7,12 @@ title: Process Builder
 ---
 >This step is recommended but not a requirement.
 >This step will create 3 seperate Process Builder processes.  There will be a process for Accounts, Contacts, and Leads.  These processes will run when a new account , contact or lead is created from Dodge Prospecting.
-The processes will Add the value **"Dodge Link"** to the Account Source or Lead Source field and change the owner of the record to the user that created the record from Dodge Prospecting.
+The processes will Add the value **"Dodge Link"** to the Account Source or Lead Source field <!--and change the owner of the record to the user that created the record from Dodge Prospecting. -->
 
 Suggested names for each Process Builder Process are:
-<br>Accounts = **Set Source and Owner on Accounts to Dodge Link** 
-<br>Contacts = **Set Source and Owner on Contacts to Dodge Link**
-<br>Leads = **Set Source and Owner on Leads to Dodge Link** 
+<br>Accounts = **Set Source <!--and Owner --> on Accounts to Dodge Link** 
+<br>Contacts = **Set Source <!--and Owner --> on Contacts to Dodge Link**
+<br>Leads = **Set Source <!--and Owner --> on Leads to Dodge Link** 
 
 **Please Note:** These processes only affect newly created records. Records previously created by Dodge Prospecting will not be affected.
 {:.warning}
@@ -21,10 +21,10 @@ Suggested names for each Process Builder Process are:
 
 ><p style="color:red">
 Start by creating the Process for Accounts<br>
-When creating Contact and Lead processes, the process names will be "Set Source and Owner on Contact to Dodge Link" or "Set Source and Owner on Lead to Dodge Link" accordingly./p>
+When creating Contact and Lead processes, the process names will be "Set Source <!--and Owner -->on Contact to Dodge Link" or "Set Source<!-- and Owner--> on Lead to Dodge Link" accordingly./p>
   
 >Click **New** button
-  ・Process Name: **Set Source and Owner on Account to Dodge Link**  
+  ・Process Name: **Set Source <!--and Owner on -->Account to Dodge Link**  
   ・The process starts when: **a record changes**<br>
   ・    Click **Save**  
   
@@ -58,7 +58,7 @@ When you are creating the Contact or Lead process and at the below step to to ad
   
 >Click **Add Action**  
   ・    Action Type: **Update Records**  
-  ・    Action Name: **Update Source and Owner**  
+  ・    Action Name: **Update Source<!-- and Owner**  -->
   ・    Record Type: **Select a record related to the dodge_Dodge_Account_c**  
   ・    Choose Field : **Account**  Do not choose any value with ">" like **Account > | Contact > | Lead >**  
   ・    Click **Choose**  
@@ -70,9 +70,9 @@ When you are creating the Contact or Lead process and at the below step to to ad
   ・    Type: **Select Picklist**  
   ・    Value: **Choose Dodge Link**
   
-  Add another Field
+  <!--Add another Field
   ・    Field: **Owner ID**. 
-  ・    Type: **Select Formula**  $User.Id**
+  ・    Type: **Select Formula**  $User.Id** -->
   
   ![Process_Builder_Actions]({{ site.baseurl }}/img/1500/Process_Builder_Actions.png)
 
