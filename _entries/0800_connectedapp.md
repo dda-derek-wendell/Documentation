@@ -11,7 +11,7 @@ title: Configure Connected App Permissions
 **Lighning:**  
 ![Connected Apps Quick Find]({{ site.baseurl }}/img/800/1.8quickfind.jpg)  
 
->**Click** the **Edit** link for the appropriate connected app. Example: Datarista
+>**Click** the **Edit** link for the appropriate connected app. Example: Dodge Link
 
 ![Click Edit]({{ site.baseurl }}/img/800/click_edit_connected_app.png)
 
@@ -28,7 +28,7 @@ title: Configure Connected App Permissions
 
 ![Click Manage Permissions]({{ site.baseurl }}/img/800/manage_permission_sets.png)
 
->Select the checkbox next to your permission set ("Datarista Permissions")  
+>Select the checkbox next to your permission set ("Dodge Link Permissions")  
 **Click** the **Save** button.
 
 ![Click the Save Button]({{ site.baseurl }}/img/800/permission_set_set.png)
