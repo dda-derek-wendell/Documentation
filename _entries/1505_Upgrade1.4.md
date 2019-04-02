@@ -6,7 +6,7 @@ number: 2000
 title: Instructions for upgrading version 1.4 
 ---
 
-> Upgrade URL:   https://login.salesforce.com/packaging/installPackage.apexp?p0=04tf4000003Adz2
+> Upgrade URL:   https://login.salesforce.com/packaging/installPackage.apexp?p0=04tf4000003zWkR
 
 > **Upgrade Instructions**
 
