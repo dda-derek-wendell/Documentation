@@ -1,7 +1,7 @@
 ---
 sectionclass: h2
-sectionid: Upgrade 1.3
-parent-id: upgrade 1.3
+sectionid: docuntnation
+parent-id: upgrades
 number: 1495
 title: Instructions for upgrading version 1.3 
 ---
