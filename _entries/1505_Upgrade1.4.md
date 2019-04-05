@@ -1,5 +1,5 @@
 ---
-sectionclass: h3
+sectionclass: h2
 sectionid: documentation
 parent-id: Upgrades
 number: 1505
