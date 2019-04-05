@@ -1,7 +1,7 @@
 ---
 sectionclass: h2
-sectionid: Upgrade 1.4
-parent-id: upgrade 1.4
+sectionid: documentation
+parent-id: Upgrades
 number: 1505
 title: Instructions for upgrading version 1.4 
 ---
