@@ -18,9 +18,9 @@ title: Instructions for upgrading version 1.4
 1.Click Setup
 2.	Go to the Opportunity Page Layout and click Edit.
 3.	Add the following fields to the Opportunity Detail or whatever section you prefer.
-3A.	Dodge Report Number
-3B. Dodge Project Title
-3C. Dodge Project (Not Required and Not recommended)
+<br>3A.	Dodge Report Number
+<br>3B. Dodge Project Title
+<br>3C. Dodge Project (Not Required and Not recommended)
 4.	Click **Save**<br>
 >
 
