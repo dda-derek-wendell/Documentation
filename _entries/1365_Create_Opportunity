@@ -1,7 +1,7 @@
 ---
 sectionclass: h3
-sectionid: processbuilder
-parent-id: opportunity
+sectionid: projectopportuity
+parent-id: project opportunity
 number: 1365
 title: Create a Project Opportunity
 ---
