@@ -1,8 +1,8 @@
 ---
 sectionclass: h2
-sectionid: docuntnation
+sectionid: documentnation
 parent-id: upgrades
-number: 1495
+number: 1500
 title: Instructions for upgrading version 1.3 
 ---
 
