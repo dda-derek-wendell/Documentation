@@ -5,7 +5,8 @@ parent-id: setleadsource
 number: 1360
 title: Process Builder
 ---
->This step is recommended but not a requirement.
+>This step is recommended but not a requirement. 
+>If your package version is 1.2 install the 1.3 upgrade in order to use this fefature.  See below step 1.16
 >This step will create 3 seperate Process Builder processes.  There will be a process for Accounts, Contacts, and Leads.  These processes will run when a new account , contact or lead is created from Dodge Prospecting.
 The processes will Add the value **"Dodge Link"** to the Account Source or Lead Source field <!--and change the owner of the record to the user that created the record from Dodge Prospecting. -->
 
