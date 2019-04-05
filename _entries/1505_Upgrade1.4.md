@@ -1,8 +1,8 @@
 ---
 sectionclass: h2
-sectionid: installcomplete
-parent-id: documentation
-number: 2000
+sectionid: Upgrade 1.4
+parent-id: upgrade
+number: 1505
 title: Instructions for upgrading version 1.4 
 ---
 
