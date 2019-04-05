@@ -1,5 +1,5 @@
 ---
-sectionclass: h2
+sectionclass: h3
 sectionid: documentnation
 parent-id: upgrades
 number: 1500
