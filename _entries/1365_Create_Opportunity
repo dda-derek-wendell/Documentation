@@ -1,14 +1,14 @@
 ---
 sectionclass: h2
-sectionid: projectopportuity
+sectionid: project_opportuity
 parent-id: documentation
 number: 1365
 title: Create a Project Opportunity
 ---
 
 >This step will configure the ability to easily Create a Project Opportunity.<br>
->If your package version is 1.2 or 1.3 install the 1.4 upgrade in order to use this fefature.  See below step 1.17
-
+>If your package version is 1.2 or 1.3 install the 1.4 upgrade in order to use this feature.  See below step 1.17
+<br>
 >
 1.Click Setup
 2.	Go to the Opportunity Page Layout and click Edit.
@@ -20,7 +20,7 @@ title: Create a Project Opportunity
 >
 
 In the Quick Find , type in Custom Settings
-1.  Click on Dodge Link Settings
-2.  Click Edit or Manage
-3.  Put a Check in the box **Project Opportunity Enabled**
-4.  Click Save
+1.  Click on Dodge Link Settings<br>
+2.  Click Edit or Manage<br>
+3.  Put a Check in the box **Project Opportunity Enabled**<br>
+4.  Click Save<br>
