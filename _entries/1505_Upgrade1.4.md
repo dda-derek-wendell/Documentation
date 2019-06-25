@@ -1,5 +1,5 @@
 ---
-sectionclass: h3
+sectionclass: h2
 sectionid: upgrade_1_4
 parent-id: upgrades
 number: 1505
