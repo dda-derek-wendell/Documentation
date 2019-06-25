@@ -5,7 +5,7 @@ parent-id: upgrades
 number: 1505
 title: Instructions for upgrading version 1.4 
 ---
-> New Feature to Create a Project Opportunity<br>
+> New Feature to Create a Project Opportunity <br>
 > Upgrade URL:   https://login.salesforce.com/packaging/installPackage.apexp?p0=04tf4000003zWkR
 
 > **Upgrade Instructions**
