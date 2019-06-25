@@ -10,10 +10,10 @@ title: Instructions for upgrading version 1.4
 
 > **Upgrade Instructions**
 
-•	Must be done by a CRM Administrator
-•	Click on the URL or paste it into the browser
-•	Install the Upgrade (Select Install for ALL Users)
-•	Enable new fields in Dodge Link Permission Set
+•	Must be done by a CRM Administrator <br>
+•	Click on the URL or paste it into the browser <br>
+•	Install the Upgrade (Select Install for ALL Users) <br>
+
 >
 1.Click Setup
 2.	Go to the Opportunity Page Layout and click Edit.
