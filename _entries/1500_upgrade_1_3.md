@@ -1,6 +1,6 @@
 ---
 sectionclass: h2
-sectionid: upgrades
+sectionid: upgrade_1_3
 parent-id: upgrades
 number: 1500
 title: Instructions for upgrading version 1.3 
