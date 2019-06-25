@@ -5,7 +5,7 @@ parent-id: upgrades
 number: 1510
 title: Instructions for upgrading version 1.5 
 ---
->Relates to Create Project Opportunity
+>Relates to Create Project Opportunity  <br>
 >This upgrade changes the the opportunity stage to be the first value in opportunity stage pick list  values.  <br>
 
 > Upgrade URL:   https://login.salesforce.com/packaging/installPackage.apexp?p0=04tf4000003rNIF
