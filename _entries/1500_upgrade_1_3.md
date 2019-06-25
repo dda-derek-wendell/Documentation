@@ -6,7 +6,7 @@ number: 1500
 title: Instructions for upgrading version 1.3 
 ---
 
-> Relates to adding a value in Account Source or Lead Source<br>
+> Relates to adding a value in Account Source or Lead Source <br>
 > Upgrade URL:   https://login.salesforce.com/packaging/installPackage.apexp?p0=04tf4000003Adyx
 
 > **Upgrade Instructions**
