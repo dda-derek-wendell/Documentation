@@ -13,6 +13,9 @@ title: Congratulations
 >1) Did you assign users to the Dodge Link Permission Set
 <br />2) Did you **Add** users tyo the license under **Manage Licenses**
  
+ >**Suggestions** <br>
+ >1)  Add a custom field to the custom objects Dodge Project and Dodge Project Leads.  This field will be a link to the Dodge Project in Dodge Construction Central (DCC).  The custom fields can be a formula field that concatenates "https://apps.construction.com/projects/" with the  field Dodghe Report Number from the custom object.  
+ 
 
 > If you need assistance, Please call Dodge Customer Care at **1-800-393-6343**
 
