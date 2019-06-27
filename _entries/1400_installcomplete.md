@@ -18,7 +18,7 @@ title: Congratulations
  >1)  Add a custom field to the custom objects **Dodge Project** and **Dodge Project Lead**.  These new fields will link your user to the Dodge Project in Dodge Construction Central (DCC).  The custom fields can be a formula field that concatenates the following: "https://apps.construction.com/projects/" with the  field Dodghe Report Number from the custom object.  <br>
  2)  Alert Account Owner when their customer is matched to Dodge <br>
  3)  Alert Account and Lead Owners when their customer has a new Dodge Project in their Project Portfolio<br>
- 3)  Alert Account and Lead Owners when a project for their customer reaches a certain stage , or meets a certain condition<br>
+ 4)  Alert Account and Lead Owners when a project for their customer reaches a certain stage , or meets a certain condition<br>
  
 
 
