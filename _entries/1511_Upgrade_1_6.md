@@ -7,14 +7,14 @@ title: Instructions for upgrading version 1.6
 ---
 
 >This upgrade has the following changes <br>
-> **New Features**
+> **New Features** <br>
 •	Automated nightly matching of CRM Leads to Dodge with the **Get Match** on Lead Object <br>
 •	Get Contacts which is an easy way of getting Dodge Accounts on any CRM Account that is matched to Dodge <br>
 
->**Usability Improvement**
+>**Usability Improvement**<br>
 • Moved the <i>Create Opportunity</i> button all the way left to make it easier to create a Project Opportunity <br>
 
-> Upgrade URL:   https://login.salesforce.com/packaging/installPackage.apexp?p0=04tf4000003rOtm
+> **Upgrade URL:**   https://login.salesforce.com/packaging/installPackage.apexp?p0=04tf4000003rOtm
 
 > **Upgrade Instructions**
 
