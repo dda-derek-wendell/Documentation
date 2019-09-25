@@ -13,6 +13,7 @@ title: Instructions for upgrading version 1.6
 
 >**Usability Improvement**<br>
 • Moved the <i>Create Opportunity</i> button all the way left to make it easier to create a Project Opportunity <br>
+• Improved the layout & display of the Projects & Project Roles section to remove most scrolling <br>
 
 > **Upgrade URL:**   https://login.salesforce.com/packaging/installPackage.apexp?p0=04tf4000003rOtm
 
