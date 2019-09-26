@@ -16,7 +16,7 @@ title: Authenticate Installation Key
 
 >**Lightning:**  
 **Click** the App Launcher icon on the top left of the menu bar.  
-**Click** the **Data App** link.
+**Click** the **Dodge Install** link.
 
 ![Click the Plus]({{ site.baseurl }}/img/900/1.9install.jpg)  
 
