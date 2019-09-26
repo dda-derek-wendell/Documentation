@@ -7,9 +7,11 @@ title: Instructions for upgrading version 1.3
 ---
 
 > Relates to adding a value in Account Source or Lead Source <br>
-> Upgrade URL:   https://login.salesforce.com/packaging/installPackage.apexp?p0=04tf4000003Adyx
+> Upgrade URL:   Get url from 1.6
 
-> **Upgrade Instructions**
+
+> **Upgrade Instructions**<br>
+<i> Only need to follow these instructions if the installed version is 1.2 </i>
 
 •	Must be done by a CRM Administrator
 •	Click on the URL or paste it into the browser
