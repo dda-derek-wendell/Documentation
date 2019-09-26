@@ -8,9 +8,10 @@ title: Instructions for upgrading version 1.5
 >Relates to Create Project Opportunity  <br>
 >This upgrade changes the the opportunity stage to be the first value in opportunity stage pick list  values.  <br>
 
-> Upgrade URL:   https://login.salesforce.com/packaging/installPackage.apexp?p0=04tf4000003rNIF
+> Upgrade URL:   See version 1.6 <br>
 
-> **Upgrade Instructions**
+> **Upgrade Instructions** <br>
+<i>Only need to follow these instructions if the installed version is 1.4 </i>
 
 •	Must be done by a CRM Administrator <br>
 •	Click on the URL or paste it into the browser <br>
