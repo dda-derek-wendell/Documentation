@@ -23,4 +23,4 @@ For each duplicate rule, click the rule name and select "Edit"
 Under conditions, add a condition with "Current User: Username", "not equal to", and the Salesforce username (login) of the user that installed the package.  
 Repeat for all applicable rules <br>
 
->**Note:** <i> When creating new Accounts, Contacts or Leads an you want the Account Owner or Lead Owner to be the person that used**Dodge Prospecting** to create that record, make sure the Duplicate Rules are Deactivated for all Dodge Link Users </i> <br>
+>**Note:** <i> When creating new Accounts, Contacts or Leads and you want the Account Owner or Lead Owner to be the person that used **Dodge Prospecting** to create that record, make sure the Duplicate Rules are Deactivated for all Dodge Link Users </i> <br>
