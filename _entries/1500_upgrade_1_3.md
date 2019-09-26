@@ -13,10 +13,10 @@ title: Instructions for upgrading version 1.3
 > **Upgrade Instructions**<br>
 <i> Only need to follow these instructions if the installed version is 1.2 </i>
 
-•	Must be done by a CRM Administrator
-•	Click on the URL or paste it into the browser
-•	Install the Upgrade (Select Install for ALL Users)
-•	Enable new fields in Dodge Link Permission Set
+•	Must be done by a CRM Administrator <br>
+•	Click on the URL or paste it into the browser <br>
+•	Install the Upgrade (Select Install for ALL Users) <br>
+•	Enable new fields in Dodge Link Permission Set <br>
 >
 1.Click Setup
 2.	In Quick Find type **Permission Set**
