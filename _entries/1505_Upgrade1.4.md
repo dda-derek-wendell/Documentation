@@ -6,9 +6,10 @@ number: 1505
 title: Instructions for upgrading version 1.4 
 ---
 > New Feature to Create a Project Opportunity <br>
-> Upgrade URL:   https://login.salesforce.com/packaging/installPackage.apexp?p0=04tf4000003zWkR
+> Upgrade URL:   See version 1.6
 
-> **Upgrade Instructions**
+> **Upgrade Instructions** <br>
+Only need to follow these instructions if the installed version is 1.3
 
 •	Must be done by a CRM Administrator <br>
 •	Click on the URL or paste it into the browser <br>
